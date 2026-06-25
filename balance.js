@@ -1,3 +1,3 @@
-let balance = 1000;
+let balance = 3000;
 
 
